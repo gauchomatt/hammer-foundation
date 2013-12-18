@@ -1,0 +1,4 @@
+Author: Matt Anderson
+Version: 1.0
+Twitter: @gauchomatt
+Site: www.lift22.com
